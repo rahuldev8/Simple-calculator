@@ -1,2 +1,1 @@
-# E-commerce-Website
-A Responsive E-commerce Website based on MERN!
+A Simple Web Based Calculator app Using HTML, CSS and Javascript !
